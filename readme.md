@@ -24,8 +24,12 @@ La utilidad principal de este programa es dejarlo corriendo en un servidor o en 
 cuando surja una actualización te notifique al instante. Si lo cierras, no notifica.
 Lo óptimo sería un cron ejecutado cada x tiempo.
 
+**¿Cómo usarlo?**
+0. Tener instalado Python.
+1. Editar el fichero Config.py. Introducir entre las comillas correspondientes el usuario y contraseña de la UC3M.
+2. Correr el archivo ejecutándolo con Python.
+
 TODO (Tareas pendientes): 
-- Tutorial de instalación
 - Notificación por EMAIL
 - Notificación por Telegram
 - Si hay mucha demanda, un manejo más ffácil de este (cloud-oriented for dummies)
