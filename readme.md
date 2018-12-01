@@ -1,4 +1,4 @@
-Auto notificador de tareas UC3M
+Autonotificador de tareas UC3M
 ----
 
 NOTE: These docs are written in Spanish just because it's made for my university colleages and me. Please do not hesitate to contact me if you need info in English.
