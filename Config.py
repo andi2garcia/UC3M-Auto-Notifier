@@ -1,0 +1,3 @@
+#Configuration
+USERID = "INSERT_ID_HERE"
+PASSWORD = "INSERT_PASS_HERE"
