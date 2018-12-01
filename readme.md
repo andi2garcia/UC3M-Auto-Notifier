@@ -1,8 +1,7 @@
 Auto notificador de tareas UC3M
 ----
 
-NOTE: This doc's are written on spanish just because it's made for my university partners and me, and it's mainly
-spanish. If you need info on enlish, contact me.
+NOTE: These docs are written in Spanish just because it's made for my university colleages and me. Please do not hesitate to contact me if you need info in English.
 
 Este programa se encarga de notificar acciones pendientes en la plataforma aulaglobal de la UC3M,
 aunque vale para cualquier plataforma de Moodle (por ende, para cualquier universidad).
