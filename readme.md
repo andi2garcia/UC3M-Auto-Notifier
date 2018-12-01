@@ -25,6 +25,7 @@ cuando surja una actualización te notifique al instante. Si lo cierras, no noti
 Lo óptimo sería un cron ejecutado cada x tiempo.
 
 **¿Cómo usarlo?**
+
 0. Tener instalado Python.
 1. Editar el fichero Config.py. Introducir entre las comillas correspondientes el usuario y contraseña de la UC3M.
 2. Correr el archivo ejecutándolo con Python.
